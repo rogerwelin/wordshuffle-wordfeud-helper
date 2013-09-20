@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #open filehandle to a dictionary
-ordlista = open("C:\\Users\\rogwel\\ss100.txt",  "r")
+ordlista = open("",  "r")
 
 wordArray = []
 
